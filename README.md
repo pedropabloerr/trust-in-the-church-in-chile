@@ -1,6 +1,6 @@
 ## Trust in the Church in Chile
 ### A time series analysis of Latinobarometer survey 1995-2018
-Analysis made by [Sathiya Raju](www.linkedin.com/in/sathiya-raju) and [Pedro Pablo Errázuriz](https://www.linkedin.com/in/pedropablo-errazuriz/)
+Analysis made by [Sathiya Raju](https://www.linkedin.com/in/sathiya-raju) and [Pedro Pablo Errázuriz](https://www.linkedin.com/in/pedropablo-errazuriz/)
 
 ### Summary
 
