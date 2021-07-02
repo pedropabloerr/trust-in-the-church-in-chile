@@ -25,4 +25,4 @@ We first compared the level of trust between Chile and other selected Latin Amer
 + [Our cleaned Latinobarometer database](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/data_all_v6.csv)
 + [Our cases database from Red Sobrevivientes NGO](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/Cases_DataBase_V2.csv)
 + [Our presentation including visualizations](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/presentation/Presentation.pdf)
-+ [Our Trello Board](https://trello.com/b/GzzGcTCn/mid-term-project "trello board trust in the church project")
++ [Our Trello board](https://trello.com/b/GzzGcTCn/mid-term-project "trello board trust in the church project")
