@@ -19,10 +19,10 @@ We first compared the level of trust between Chile and other selected Latin Amer
 
 ![decline in trust and emergence of cases](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/images/Screenshot%202021-07-02%20at%2010.03.40.png?raw=true)
 
-### Links
+#### Links
 
--[Our code](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/code/mid_term_project_complete_file.ipynb)
--[Our cleaned Latinobarometer data base](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/data_all_v6.csv)
--[Our cases from Red Sobrevivientes data base](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/Cases_DataBase_V2.csv). 
--[Our presentation including visualizations](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/presentation/Presentation.pdf).
--[Our Trello Board](https://trello.com/b/GzzGcTCn/mid-term-project "trello board trust in the church project").
++ [Our code](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/code/mid_term_project_complete_file.ipynb).
++ [Our cleaned Latinobarometer database](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/data_all_v6.csv)
++ [Our cases database from Red Sobrevivientes NGO](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/Cases_DataBase_V2.csv). 
++ [Our presentation including visualizations](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/presentation/Presentation.pdf).
++ [Our Trello Board](https://trello.com/b/GzzGcTCn/mid-term-project "trello board trust in the church project").
