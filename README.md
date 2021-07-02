@@ -3,7 +3,7 @@
 
 ### Summary
 
-This research analysis the fall on the trust of the Church in Chile. We explore the data included in the survey and then we compare it with a database from the NGO Red Sobrevivientes to look for an explanation of the sharp decline in the trust. 
+This research analysis the fall on the trust of the Church in Chile. We explore the data included in the survey [Latinobarometer](https://www.latinobarometro.org/latContents.jsp) and then we compare it with a database from the [NGO Red Sobrevivientes](https://www.redsobrevivientes.org/post/mapa-abusos) to look for an explanation of the sharp decline in the trust. 
 
 ### Pre-processing
 
@@ -13,13 +13,14 @@ As for the data from Red Sobrevivientes, we built their map of abuse cases into 
 
 ### Analysis
 
-We visualized both data bases using Tableau, and compared them. We could conclude a correlation between the fall in the trust in the Church and the emergence of cases of sexual abuse involving its members, though it was not possible to quantify the effect of a case in particular. 
+We first compared the level of trust between Chile and other selected Latin American countries. We the dissagregated them by gender and by age cohort to look for attitudes towards the Church patterns. We finally compared both data bases using Tableau. We could conclude a correlation between the fall in the trust in the Church and the emergence of cases of sexual abuse involving its members, though it was not possible to quantify the effect of a case in particular. 
 
 ![decline in trust and emergence of cases](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/images/Screenshot%202021-07-02%20at%2010.03.40.png?raw=true)
 
 ### Links
 
-Our code
-Our cleaned Latinobarometer data base
-Our cases from Red Sobrevivientes data base. 
-Our presentation including visualizations. 
+-Our code
+-[Our cleaned Latinobarometer data base](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/data_all_v6.csv)
+-[Our cases from Red Sobrevivientes data base](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/Cases_DataBase_V2.csv). 
+-[Our presentation including visualizations](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/presentation/Presentation.pdf).
+-[Our Trello Board](https://trello.com/b/GzzGcTCn/mid-term-project "trello board trust in the church project").
