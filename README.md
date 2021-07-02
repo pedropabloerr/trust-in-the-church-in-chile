@@ -15,7 +15,7 @@ As for the data from Red Sobrevivientes, we built their map of abuse cases into 
 
 We visualized both data bases using Tableau, and compared them. We could conclude a correlation between the fall in the trust in the Church and the emergence of cases of sexual abuse involving its members, though it was not possible to quantify the effect of a case in particular. 
 
-image. 
+![decline in trust and emergence of cases](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/images/Screenshot%202021-07-02%20at%2010.03.40.png?raw=true)
 
 ### Links
 
