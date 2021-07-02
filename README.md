@@ -1,3 +1,4 @@
+![Header](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/images/Church-Header.jpeg?raw=true)
 ## Trust in the Church in Chile
 ### A time series analysis of Latinobarometer survey 1995-2018
 Analysis made by [Sathiya Raju](https://www.linkedin.com/in/sathiya-raju) and [Pedro Pablo Errázuriz](https://www.linkedin.com/in/pedropablo-errazuriz/)
@@ -20,7 +21,7 @@ We first compared the level of trust between Chile and other selected Latin Amer
 
 ### Links
 
--Our code
+-[Our code](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/code/mid_term_project_complete_file.ipynb)
 -[Our cleaned Latinobarometer data base](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/data_all_v6.csv)
 -[Our cases from Red Sobrevivientes data base](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/databases/Cases_DataBase_V2.csv). 
 -[Our presentation including visualizations](https://github.com/pedropabloerr/trust-in-the-church-in-chile/blob/main/presentation/Presentation.pdf).
